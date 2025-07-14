@@ -1,7 +1,7 @@
 [versions]
 accompanist = "0.37.3"
 activity-compose = "1.10.1"
-agp = "8.10.1"
+agp = "8.11.1"
 app-compat = "1.7.1"
 compose-bom = "2025.06.00"
 compose-compiler-report-generator = "1.4.2"
